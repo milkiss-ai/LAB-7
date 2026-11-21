@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <rect width="300" height="450" fill="#E8F4FF"/>
+  <rect x="26" y="26" width="248" height="398" rx="18" fill="none" stroke="#C5DDF3" stroke-width="2" stroke-dasharray="10 8"/>
+  <circle cx="150" cy="196" r="34" fill="none" stroke="#C5DDF3" stroke-width="3"/>
+  <circle cx="150" cy="196" r="11" fill="#C5DDF3"/>
+  <text x="150" y="268" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#7FA6C9">Нет постера</text>
+</svg>
